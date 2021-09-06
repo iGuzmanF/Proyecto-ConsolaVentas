@@ -1,0 +1,25 @@
+
+-------------
+Administrador
+Hora:23:25:34
+Fecha:5-9-2021
+-------------
+Salida del Administrador
+Hora:23:25:34
+Fecha:5-9-2021
+-------------
+Vendedor
+Hora:23:25:42
+Fecha:5-9-2021
+-------------
+Salida del Vendedor
+Hora:23:25:42
+Fecha:5-9-2021
+-------------
+Invitado
+Hora:23:25:49
+Fecha:5-9-2021
+-------------
+Salida del Invitado
+Hora:23:25:49
+Fecha:5-9-2021
