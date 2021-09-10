@@ -487,3 +487,11 @@ Fecha:9-9-2021
 Administrador
 Hora:14:20:5
 Fecha:9-9-2021
+-------------
+Administrador
+Hora:18:31:38
+Fecha:9-9-2021
+-------------
+Salida del Administrador
+Hora:18:31:38
+Fecha:9-9-2021

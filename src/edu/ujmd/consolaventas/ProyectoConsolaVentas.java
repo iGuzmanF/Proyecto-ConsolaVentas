@@ -286,9 +286,17 @@ public class ProyectoConsolaVentas {
                             break;
 
                         case 3:
-                            System.out.println("**Menu para cambiar contraseña**");
-                            System.out.println("Seleccione su nueva contraseña:");
+                             System.out.println("*Menu para cambiar contraseña*");
+                            System.out.println("------------------------------------------");
+                            String contraseñaNueva;
+                            System.out.println("Ingrese la nueva contraseña del administrador:");
+                            contraseñaNueva = in.next();                          
+                            System.out.println("------------------------------------------");
                             System.out.println("Escriba nuevamente su contraseña nueva:");
+                            contraseñaNueva = in.next();
+                            System.out.println("-----------------------------------------");
+                            System.out.println("Contraseña actualizada!");
+                            System.out.println("-----------------------------------------");
                             break;
 
                         case 4:
