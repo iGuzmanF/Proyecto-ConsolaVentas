@@ -138,7 +138,6 @@ public class ProyectoConsolaVentas {
                             for (int i = 0; i < c; i++) {
 
                                 if (cod[i] == 1) {
-
                                     int huevos = 30;
                                     if (cantidad[i] <= huevos) {
 
@@ -285,11 +284,11 @@ public class ProyectoConsolaVentas {
                             break;
 
                         case 3:
-                             System.out.println("*Menu para cambiar contraseña*");
+                            System.out.println("*Menu para cambiar contraseña*");
                             System.out.println("------------------------------------------");
                             String contraseñaNueva;
                             System.out.println("Ingrese la nueva contraseña del administrador:");
-                            contraseñaNueva = in.next();                          
+                            contraseñaNueva = in.next();
                             System.out.println("------------------------------------------");
                             System.out.println("Escriba nuevamente su contraseña nueva:");
                             contraseñaNueva = in.next();
@@ -396,8 +395,7 @@ public class ProyectoConsolaVentas {
                             ........
                             cod[10]=
                             
-                            */
-                            
+                             */
                             //Metodo para agregar mas de un producto
                             do {
 
@@ -415,7 +413,7 @@ public class ProyectoConsolaVentas {
                             System.out.println("FACTURA DE COMPRA");
                             System.out.println("SUPER MERCADO DON DIEGO");
                             System.out.println("------------------------------------");
-                            
+
                             //Mostrar datos y realizar las operaciones
                             for (int i = 0; i < c; i++) {
 
