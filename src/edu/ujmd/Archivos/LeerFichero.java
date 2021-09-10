@@ -26,7 +26,7 @@ class LeeFichero {
             String path = (System.getProperty("user.dir"));
 
             archivo = new File(path + rutaabsoluta);
-                fr = new FileReader(archivo);
+            fr = new FileReader(archivo);
             br = new BufferedReader(fr);
             // Lectura del fichero
             String linea;

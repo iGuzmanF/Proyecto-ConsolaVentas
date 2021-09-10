@@ -6,7 +6,6 @@
 package edu.ujmd.consolaventas;
 
 import edu.ujmd.Archivos.Archivos;
-import edu.ujmd.Clases.Productos;
 import edu.ujmd.Clases.Usuarios;
 import java.time.LocalDateTime;
 import java.time.Month;
